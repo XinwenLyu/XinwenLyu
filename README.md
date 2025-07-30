@@ -1,5 +1,5 @@
 # About me 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning tools to find Real World solutions in BioMed area.
 
 <!--
 **XinwenLyu/XinwenLyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
